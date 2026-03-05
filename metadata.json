@@ -1,0 +1,9 @@
+{
+  "name": "AI Brain - AI Lecture & Content Platform",
+  "description": "A premium AI education platform offering lectures, automated workflows, and AI-powered content creation tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
